@@ -1,0 +1,32 @@
+PROTOCOL_NAME,PROTOCOL_ID,TYPE,DIFFICULTY_COGNITIVE,DIFFICULTY_MOTOR,BODY_PART_FINGER,BODY_PART_WRIST,BODY_PART_ARM,BODY_PART_SHOULDER,BODY_PART_TRUNK,REACHING,GRASPING,PINCHING,PRONATION_SUPINATION,RANGE_OF_MOTION_H,RANGE_OF_MOTION_V,PROCESSING_SPEED,ATTENTION,VISUAL_LANGUAGE,VISUALSPATIAL_PROCESSING_AWARENESS_NEGLECT,COORDINATION,MEMORY_WM,MEMORY_SEMANTIC,MATH,DAILY_LIVING_ACTIVITY,SYMBOLIC_UNDERSTANDING,SEMANTIC_PROCESSING
+Blobs,214,Balanced,2,2,1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,1,1,0,1,1,0,0
+Twister,223,Balanced,2,2,1,0,0,0,0,1,1,1,0,0,0,1,1,0,1,1,1,0,0,1,0,0
+Shelves (AR),208,Balanced,1,1,0,0,1,1,0,1,1,0,0,1,1,1,0,1,0,0,1,1,0,1,0,0
+Place it,204,Balanced,2,2,0,0,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,0,1,0,1
+Alphabet (AR),205,Balanced,1,1,0,0,1,1,0,1,0,0,1,1,1,1,0,0,1,1,0,0,0,1,0,0
+Hockey (AR),219,Motor,0,2,0,0,1,1,0,1,1,0,0,2,0,1,0,1,1,1,1,1,0,1,0,0
+Ducks (AR),209,Motor,0,2,0,0,1,1,1,1,1,0,0,2,2,1,1,1,1,1,1,1,0,1,0,0
+Balloons (AR),206,Motor,0,2,0,0,1,1,0,1,0,0,0,2,2,1,1,1,1,1,1,1,0,1,0,0
+Tubes (AR),226,Motor,2,2,0,1,1,1,0,1,1,0,1,0,2,1,1,1,1,1,1,1,0,1,0,0
+Fishing day (AR),221,Motor,1,0,0,0,1,1,0,1,1,0,0,1,0,0,1,1,1,1,1,1,0,1,0,0
+Driving,217,Motor,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0
+Guess What,202,Cognitive,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,0,1,1
+Memoseq,201,Cognitive,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,1
+Pianoseq,203,Cognitive,2,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,0,0,0,0
+Potpourri,222,Cognitive,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,1,1
+Memory,224,Cognitive,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,0,1,1,1
+Do the dishes (AR),225,Motor,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Canvas wiping (AR),227,Motor,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+Training (AR),200,Motor,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Buffet (AR),210,Motor,0,1,0,0,0,0,0,0,0,0,0,2,2,0,0,1,0,0,0,0,0,1,0,0
+Shopping,215,Motor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cleaning,216,Motor,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+Balloons Basic,231,Motor,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+Spheroids Basic,10,Motor,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Armanoid,211,Motor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Circle (V),220,Assessment,0,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,0
+Circle (H),228,Assessment,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0
+Quality control Basic,232,Assessment,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Quality control (AR),230,Assessment,2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Constelations (AR),233,Cognitive,2,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Constelations Basic,229,Cognitive,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
