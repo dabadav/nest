@@ -160,7 +160,7 @@ def check_session(session: pd.DataFrame) -> pd.DataFrame:
     # Drop these rows
     session = session.drop(patients_no_data.index)
 
-    # Step 2: Sessions in session table but not in recording table (no adherence)
+    # Sessions in session table but not in recording table (no adherence)
     print("Sessions in session table but not in recording table")
     patient_session_discrepancy = session[session["ADHERENCE"].isna()]
     if not patient_session_discrepancy.empty:
